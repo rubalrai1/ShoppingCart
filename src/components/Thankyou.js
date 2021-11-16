@@ -1,0 +1,9 @@
+import React from 'react'
+
+const Thankyou=()=>{
+    return(
+    <h1>Thank you for shopping with us</h1>
+    )
+}
+
+export default Thankyou
